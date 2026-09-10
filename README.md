@@ -1,6 +1,6 @@
 # ABOUT Ian C. Chileshe
 
-- Data Science student (ZCAS University) | Software engineer by passion
+- Data Science student (ZCAS University) | Software engineer
 
 ## Languages & Tools 
 
