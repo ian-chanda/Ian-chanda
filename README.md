@@ -2,21 +2,26 @@
 
 **Data Science Student | Software Developer**
 
-I'm a Data Science student at ZCAS University, Zambia, with an interest in software engineering, data analysis, and building practical applications.
+I'm a Data Science student at ZCAS University, Zambia, interested in software engineering, data science, and building practical applications.
 
-I work primarily with Python, Rust, and React Native. I enjoy developing software that solves real problems, from desktop business applications to mobile platforms.
+I work primarily with Python, Rust, and React Native, developing everything from desktop business software to mobile applications.
 
 ## Featured Projects
 
 ### [Airfare Manager](https://github.com/ian-chanda/airfare-manager)
-A Rust desktop application developed for **Palm Travel** to manage airline ticket sales, calculate commissions, track payments, and generate financial summaries.
+A Rust desktop application developed for **Palm Travel** to manage airline ticket sales, commission calculations, payment tracking, and financial reporting.
 
-**Technologies:** Rust, egui/eframe, Supabase, PostgreSQL
+**Tech:** Rust, egui/eframe, Supabase, PostgreSQL
 
 ### [Flux Marketplace](https://github.com/ian-chanda/flux-marketplace)
-A collaborative mobile marketplace project designed for buying and selling goods in Zambia. Features include product listings, search, user profiles, saved items, and order management.
+A collaborative mobile marketplace for buying and selling goods in Zambia, featuring product listings, search, user profiles, and order management.
 
-**Technologies:** React Native, Expo, TypeScript, Supabase
+**Tech:** React Native, Expo, TypeScript, Supabase
+
+## Currently Building
+
+### Zingati
+Working with a development team on Zingati, a mobile application currently in development. I'm involved in coordinating development and contributing to technical decisions and implementation.
 
 ## Languages & Tools
 
@@ -26,8 +31,6 @@ A collaborative mobile marketplace project designed for buying and selling goods
 - **Backend & Databases:** Supabase, PostgreSQL
 - **Desktop Development:** egui/eframe
 
-## Currently
+## Currently Open To
 
-- Studying Data Science at ZCAS University
-- Developing Flux Marketplace
-- Open to remote software development opportunities and collaborations
+Remote software development opportunities, freelance projects, and collaborations.
